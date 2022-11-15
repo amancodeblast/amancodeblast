@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋                                       ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amancodeblast@.repoName)
 
 <!--
 **amancodeblast/amancodeblast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-[![Tanuj Aman Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amancodeblast&count_private=true&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/amancodeblast)
+[![Aman Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amancodeblast&count_private=true&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/amancodeblast)
